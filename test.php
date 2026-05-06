@@ -1,0 +1,1 @@
+<?php echo "<h1>PHP is working on flavorHub folder!</h1>"; ?>
